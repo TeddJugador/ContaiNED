@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "ContaiNED: Type-constrained mention clustering for zero-shot named entity disambiguation"
+authors:
+  - family-names: Masi
+    given-names: Theodore
+    affiliation: Rhodes University
+    orcid: "https://orcid.org/0009-0003-7007-403X"
+  - family-names: Marais
+    given-names: Marc
+    affiliation: Rhodes University
+    orcid: "https://orcid.org/0000-0002-6952-4406"
+year: 2026
+url: "https://www.kaggle.com/code/theomasi/contained"
+type: software
